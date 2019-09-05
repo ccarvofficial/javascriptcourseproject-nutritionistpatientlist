@@ -7,7 +7,7 @@ This is a project to nutritionists that allows managing your customers. A small 
 ## Folders Structure
 ```bash
 ├── css/
-|├── index.css
+|   ├── index.css
 |   ├── resets.css
 ├── images/
 |   ├── certificate.png
