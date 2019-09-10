@@ -4,6 +4,9 @@
 ## About
 This is a project to nutritionists that allows managing your customers. A small project that provides work with important concepts of JavaScript language.
 
+## Project Image
+![Project Image - Nutritionist - Patient List](https://github.com/ccarvofficial/javascriptcourseproject-nutritionistpatientlist/blob/master/images/project-image.png)
+
 ## Folders Structure
 ```bash
 ├── css/
